@@ -6,3 +6,5 @@ Bu proje bir dağıtık sistem olduğu için her servisin versiyon kontrolü ayr
 config-service: ["config-service-lab" Github Reposu](https://github.com/berat-erkul/config-service-LAB)
 
 discovery-service: ["discovery-service-lab" Github Reposu](https://github.com/berat-erkul/discovery-service-LAB)
+
+gateway-service: ["gateway-service-lab" Github Reposu](https://github.com/berat-erkul/gateway-service-LAB)
