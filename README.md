@@ -10,3 +10,9 @@ discovery-service: ["discovery-service-lab" Github Reposu](https://github.com/be
 gateway-service: ["gateway-service-lab" Github Reposu](https://github.com/berat-erkul/gateway-service-LAB)
 
 user-service: ["user-service-lab" Github Reposu](https://github.com/berat-erkul/user-service-LAB)
+
+task-service: ["task-service-lab" Github Reposu](https://github.com/berat-erkul/task-service-LAB)
+
+project-service: ["project-service-lab" Github Reposu](https://github.com/berat-erkul/project-service-LAB)
+
+
