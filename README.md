@@ -15,4 +15,5 @@ task-service: ["task-service-lab" Github Reposu](https://github.com/berat-erkul/
 
 project-service: ["project-service-lab" Github Reposu](https://github.com/berat-erkul/project-service-LAB)
 
+web-ui-service: ["web-ui-service-lab" Github Reposu](https://github.com/berat-erkul/web-ui-service-LAB)
 
