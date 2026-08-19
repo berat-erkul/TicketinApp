@@ -84,6 +84,8 @@ flowchart LR
 
 - **Backend:** Java, Spring Boot, Spring Cloud (Gateway, Eureka, Config Server, LoadBalancer)
 - **Authentication:** Keycloak, JWT/JWK, OAuth2
+- **Secrets management:** HashiCorp Vault, Infisical
+- **Observability:** Zipkin (distributed tracing), Grafana (metrics dashboards)
 - **Database:** PostgreSQL (one database per service)
 - **Web client:** Spring WebFlux (BFF)
 - **Mobile client:** Kotlin, Jetpack Compose
